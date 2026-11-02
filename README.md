@@ -389,4 +389,6 @@ Distributed-GPU-Offloading-System/
 **CSC-334 — Parallel and Distributed Computing**
 BS Software Engineering — 7th Semester
 <img width="1366" height="737" alt="image" src="https://github.com/user-attachments/assets/907fd724-b416-4c69-9392-601911a58f7b" />
+<img width="1280" height="690" alt="WhatsApp Image 2026-11-01 at 9 08 52 PM" src="https://github.com/user-attachments/assets/24dbe42f-ac45-485e-b0d9-ef914e906ba3" />
+
 
