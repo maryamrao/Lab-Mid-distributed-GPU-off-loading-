@@ -390,8 +390,3 @@ Distributed-GPU-Offloading-System/
 BS Software Engineering — 7th Semester
 <img width="1366" height="737" alt="image" src="https://github.com/user-attachments/assets/907fd724-b416-4c69-9392-601911a58f7b" />
 
----
-
-## License
-
-MIT License — see `LICENSE`
