@@ -1,0 +1,76 @@
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-001 | video.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-002 | video.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-003 | video.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job cancelled: job-003
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-004 | video.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job completed: job-004 | status=completed
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-s1 | a.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-s2 | b.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-l1 | a.mp4
+[2026-11-01 02:19:38] [INFO] [task_manager] Job created: job-l2 | b.mp4
+[2026-11-01 02:20:05] [INFO] [server.main] ============================================================
+[2026-11-01 02:20:05] [INFO] [server.main]   Distributed GPU Offloading System v1.0.0
+[2026-11-01 02:20:05] [INFO] [server.main]   Server starting...
+[2026-11-01 02:20:05] [INFO] [server.main] ============================================================
+[2026-11-01 02:20:05] [INFO] [gpu_detector] Starting hardware detection...
+[2026-11-01 02:20:05] [INFO] [gpu_detector] No NVIDIA GPU detected — will use CPU rendering
+[2026-11-01 02:20:05] [WARNING] [gpu_detector] FFmpeg not found in PATH — rendering will not work
+[2026-11-01 02:20:05] [INFO] [gpu_detector] Execution mode: CPU
+[2026-11-01 02:20:05] [INFO] [server.main]   GPU Available : False
+[2026-11-01 02:20:05] [INFO] [server.main]   GPU Name      : N/A
+[2026-11-01 02:20:05] [INFO] [server.main]   VRAM          : N/A MB
+[2026-11-01 02:20:05] [INFO] [server.main]   CUDA          : False
+[2026-11-01 02:20:05] [INFO] [server.main]   NVENC         : False
+[2026-11-01 02:20:05] [INFO] [server.main]   FFmpeg        : False (None)
+[2026-11-01 02:20:05] [INFO] [server.main]   Execution Mode: CPU
+[2026-11-01 02:20:05] [INFO] [server.main] ============================================================
+[2026-11-01 02:20:05] [INFO] [queue_manager] Started 1 render worker(s)
+[2026-11-01 02:20:06] [WARNING] [cuda_engine] PyTorch not installed — using pure Python fallback
+[2026-11-01 02:20:06] [INFO] [server.main] Server shutting down...
+[2026-11-01 02:25:48] [INFO] [server.main] ============================================================
+[2026-11-01 02:25:48] [INFO] [server.main]   Distributed GPU Offloading System v1.0.0
+[2026-11-01 02:25:48] [INFO] [server.main]   Server starting...
+[2026-11-01 02:25:48] [INFO] [server.main] ============================================================
+[2026-11-01 02:25:48] [INFO] [gpu_detector] Starting hardware detection...
+[2026-11-01 02:25:48] [INFO] [gpu_detector] No NVIDIA GPU detected — will use CPU rendering
+[2026-11-01 02:25:48] [WARNING] [gpu_detector] FFmpeg not found in PATH — rendering will not work
+[2026-11-01 02:25:48] [INFO] [gpu_detector] Execution mode: CPU
+[2026-11-01 02:25:48] [INFO] [server.main]   GPU Available : False
+[2026-11-01 02:25:48] [INFO] [server.main]   GPU Name      : N/A
+[2026-11-01 02:25:48] [INFO] [server.main]   VRAM          : N/A MB
+[2026-11-01 02:25:48] [INFO] [server.main]   CUDA          : False
+[2026-11-01 02:25:48] [INFO] [server.main]   NVENC         : False
+[2026-11-01 02:25:48] [INFO] [server.main]   FFmpeg        : False (None)
+[2026-11-01 02:25:48] [INFO] [server.main]   Execution Mode: CPU
+[2026-11-01 02:25:48] [INFO] [server.main] ============================================================
+[2026-11-01 02:25:48] [INFO] [queue_manager] Started 1 render worker(s)
+[2026-11-01 02:25:48] [WARNING] [cuda_engine] PyTorch not installed — using pure Python fallback
+[2026-11-01 02:25:48] [INFO] [server.main] Server shutting down...
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-001 | video.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-002 | video.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-003 | video.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job cancelled: job-003
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-004 | video.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job completed: job-004 | status=completed
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-s1 | a.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-s2 | b.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-l1 | a.mp4
+[2026-11-01 02:25:48] [INFO] [task_manager] Job created: job-l2 | b.mp4
+[2026-11-01 07:09:08] [INFO] [server.main] Listening on 0.0.0.0:8000
+[2026-11-01 07:09:10] [INFO] [server.main] ============================================================
+[2026-11-01 07:09:10] [INFO] [server.main]   Distributed GPU Offloading System v1.0.0
+[2026-11-01 07:09:10] [INFO] [server.main]   Server starting...
+[2026-11-01 07:09:10] [INFO] [server.main] ============================================================
+[2026-11-01 07:09:10] [INFO] [gpu_detector] Starting hardware detection...
+[2026-11-01 07:09:10] [INFO] [gpu_detector] No NVIDIA GPU detected — will use CPU rendering
+[2026-11-01 07:09:10] [WARNING] [gpu_detector] FFmpeg not found in PATH — rendering will not work
+[2026-11-01 07:09:10] [INFO] [gpu_detector] Execution mode: CPU
+[2026-11-01 07:09:10] [INFO] [server.main]   GPU Available : False
+[2026-11-01 07:09:10] [INFO] [server.main]   GPU Name      : N/A
+[2026-11-01 07:09:10] [INFO] [server.main]   VRAM          : N/A MB
+[2026-11-01 07:09:10] [INFO] [server.main]   CUDA          : False
+[2026-11-01 07:09:10] [INFO] [server.main]   NVENC         : False
+[2026-11-01 07:09:10] [INFO] [server.main]   FFmpeg        : False (None)
+[2026-11-01 07:09:10] [INFO] [server.main]   Execution Mode: CPU
+[2026-11-01 07:09:10] [INFO] [server.main] ============================================================
+[2026-11-01 07:09:10] [INFO] [queue_manager] Started 1 render worker(s)
